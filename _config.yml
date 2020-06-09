@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -24,9 +24,10 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
-    projects:
-    # - repo-name
+    forks: false
+    projects: 
+      - Derrick56007.github.io
+      - personal-website
 
 # social_media:
   # behance: your_username
